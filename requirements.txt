@@ -1,0 +1,14 @@
+black
+boto3
+langchain_aws
+python-dotenv
+langchain
+langgraph
+isort
+langchain-ollama
+mcp[cli]
+fastmcp
+httpx
+serpapi
+langchain_mcp_adapters
+streamlit

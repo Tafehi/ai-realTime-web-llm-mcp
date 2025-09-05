@@ -1,4 +1,6 @@
 black
+langgraph
+langchain-anthropic
 boto3
 langchain_aws
 python-dotenv

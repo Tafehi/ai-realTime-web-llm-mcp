@@ -1,6 +1,10 @@
 black
 langgraph
-langchain-anthropic
+opencv-python
+langchain-community
+soundfile
+SpeechRecognition
+sounddevice
 boto3
 langchain_aws
 python-dotenv
@@ -9,8 +13,5 @@ langgraph
 isort
 langchain-ollama
 mcp[cli]
-fastmcp
 httpx
-serpapi
-langchain_mcp_adapters
 streamlit
